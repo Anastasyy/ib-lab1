@@ -149,7 +149,7 @@ public class XssUtils {
 
 Скриншот отчета
 
-// TODO: вставить скриншот
+![spotbugs-report](docs/spotbugs-report.png)
 
 ### SCA (Software Composition Analysis)
 
@@ -157,4 +157,4 @@ public class XssUtils {
 
 Скриншот отчета
 
-// TODO: вставить скриншот
+![owasp-dependency-check-report](docs/owasp-dependency-check-report.png)
