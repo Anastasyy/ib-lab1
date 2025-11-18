@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>itmo.ib</groupId>
-    <artifactId>lab1</artifactId>
+    <artifactId>ib-lab1</artifactId>
     <version>1.0.0</version>
 
     <properties>
